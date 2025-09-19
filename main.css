@@ -1,0 +1,12 @@
+.doimau:hover {
+    color:lightblue;   
+}
+.mauxanh {color: rgb(31, 31, 145);}
+.mauxam{color: grey;}
+.candeu{
+    gap:15px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}  
+.bo{border-radius:20px;}
