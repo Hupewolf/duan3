@@ -8,5 +8,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    
 }  
 .bo{border-radius:20px;}
+.deu{justify-content: center;
+    align-items: center;
+    height: 100vh;}
